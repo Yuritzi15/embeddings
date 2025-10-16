@@ -3,8 +3,8 @@
     {
       "tensorName": "Autoencoder  1 N-Gram lacs Embeddings",
       "tensorShape": [1979, 200],
-      "tensorPath": "https://raw.githubusercontent.com/Yuritzi15/embeddings/main/autoencoder/lacs/1gram/n_gram_embedding.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/Yuritzi15/embeddings/main/autoencoder/lacs/1gram/n_gram_words.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/Yuritzi15/embeddings/main/autoencoder/lacs/1grams/n_gram_embedding.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/Yuritzi15/embeddings/main/autoencoder/lacs/1grams/n_gram_words.tsv"
     }
   ]
 }
