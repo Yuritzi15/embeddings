@@ -1,0 +1,10 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Nextcoder 4 N-Gram lacs Embeddings",
+      "tensorShape": [944, 200],
+      "tensorPath": "https://raw.githubusercontent.com/Yuritzi15/embeddings/main/nextcoder/lacs/4grams/n_gram_embedding.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/Yuritzi15/embeddings/main/nextcoder/lacs/4grams/n_gram_words.tsv"
+    }
+  ]
+}
