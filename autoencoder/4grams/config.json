@@ -1,0 +1,10 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Autoencoder 4 N-Gram Embeddings",
+      "tensorShape": [1979, 200],
+      "tensorPath": "https://raw.githubusercontent.com/Yuritzi15/embeddings/main/autoencoder/4gram/n_gram_embedding.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/Yuritzi15/embeddings/main/autoencoder/4gram/n_gram_words.tsv"
+    }
+  ]
+}
