@@ -1,10 +1,10 @@
 {
   "embeddings": [
     {
-      "tensorName": "Mis embeddings",
-      "tensorShape": [1000, 128],
-      "tensorPath": "https://raw.githubusercontent.com/tu_usuario/tu_repo/main/vectors.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/tu_usuario/tu_repo/main/metadata.tsv"
+      "tensorName": "N-Gram Embeddings (Autoencoder)",
+      "tensorPath": "https://raw.githubusercontent.com/Yuritzi15/embeddings/main/autoencoder/n_gram_embedding.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/Yuritzi15/embeddings/main/autoencoder/n_gram_words.tsv"
     }
   ]
 }
+
