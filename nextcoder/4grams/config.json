@@ -1,0 +1,10 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Autoencoder N-Gram Embeddings",
+      "tensorShape": [944, 200],
+      "tensorPath": "https://raw.githubusercontent.com/Yuritzi15/embeddings/main/nextcoder/4grams/n_gram_embedding.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/Yuritzi15/embeddings/main/nextcoder/4grams/n_gram_words.tsv"
+    }
+  ]
+}
