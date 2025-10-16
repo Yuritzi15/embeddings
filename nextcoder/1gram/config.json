@@ -1,0 +1,10 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Nextcoder 1 N-Gram Embeddings",
+      "tensorShape": [1979, 200],
+      "tensorPath": "https://raw.githubusercontent.com/Yuritzi15/embeddings/main/nextcoder/1gram/n_gram_embedding.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/Yuritzi15/embeddings/main/nextcoder/1gram/n_gram_words.tsv"
+    }
+  ]
+}
