@@ -4,7 +4,7 @@
       "tensorName": "Cluster 4grams nextcoder",
       "tensorShape": [4717, 200],
       "tensorPath": "https://raw.githubusercontent.com/Yuritzi15/embeddings/main/nextcoder/4gram/lacs/4gramscluster/embeddings.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/Yuritzi15/embeddings/main/autoencoder/4gram/lacs/4gramscluster/metadata.tsv"
+      "metadataPath": "https://raw.githubusercontent.com/Yuritzi15/embeddings/main/nextcoder/4gram/lacs/4gramscluster/metadata.tsv"
     }
   ]
 }
