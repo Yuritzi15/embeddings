@@ -1,7 +1,7 @@
   "embeddings": [
     {
       "tensorName": "Cluster 4grams nextcoder",
-      "tensorShape": [944, 200],
+      "tensorShape": [4717, 200],
       "tensorPath": "https://raw.githubusercontent.com/Yuritzi15/embeddings/main/nextcoder/4gram/embeddings.tsv",
       "metadataPath": "https://raw.githubusercontent.com/Yuritzi15/embeddings/main/autoencoder/4gram/metadata.tsv"
     }
