@@ -4716,3 +4716,11 @@ interfaces main communication interface	7
 use hardware interfaces software	4
 externally generated data processed	4
 using camera facility users	4
+CENTROID_0	0
+CENTROID_1	1
+CENTROID_2	2
+CENTROID_3	3
+CENTROID_4	4
+CENTROID_5	5
+CENTROID_6	6
+CENTROID_7	7
